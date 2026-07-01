@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Raw / duplicate data files
+data.dat
+output.csv
+
+# Claude internals
+.claude/
+
+# Redundant old charts at root (canonical copies are in images/)
+/residual_distribution.png
+/residual_plots.png
+/numerical_distributions.png
+/actual_vs_predicted.png
+/avg_price_by_city.png
+/categorical_distributions.png
+/correlation_heatmap.png
+/feature_importance.png
+/model_comparison_r2.png
+/price_by_bedrooms.png
+/price_distribution.png
+/price_vs_features.png
+/residual_analysis.png
+
+# Report in root (canonical copy is in report/)
+/House_Price_Prediction_Report.docx
