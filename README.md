@@ -3,13 +3,14 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
-<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/ML-Scikit--Learn-F7931E.svg?logo=scikit-learn&logoColor=white" alt="Machine Learning">
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Regression-XGBoost%20%7C%20Scikit--Learn-F7931E.svg?logo=scikit-learn&logoColor=white" alt="XGBoost">
+<img src="https://img.shields.io/badge/Feature%20Engineering-Polynomial%20Features-blue.svg" alt="FE">
 <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
 
 **Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
 
-[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--deployment) • [Author & Maintainer](#author--maintainer)
 
 </div>
 
@@ -74,6 +75,8 @@ The dataset covers **4,529 residential property sales** in King County, Washingt
 ## 📜 License
 
 This project is licensed under the **MIT License** — you are free to use, modify, and distribute it with attribution.
+
+---
 
 ---
 
